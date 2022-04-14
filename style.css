@@ -24,3 +24,7 @@ main > section {
     max-width: 1300px;
     min-width: 800px;
 }
+
+p {
+    padding: 8px;
+}
