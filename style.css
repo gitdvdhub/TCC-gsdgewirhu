@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+}
+
+body {
+    text-align: center;
+}
+
+header {
+    background-color: rgb(69, 69, 247);
+    height: 120px;
+}
+
+header > h1 {
+    padding: 40px ;
+}
+
+main > section {
+    background-color: rgb(176, 176, 255);
+    border-radius: 8px;
+    margin: 40px auto 60px auto;
+    max-width: 1300px;
+    min-width: 800px;
+}
